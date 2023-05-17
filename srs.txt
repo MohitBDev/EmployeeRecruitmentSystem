@@ -1,0 +1,26 @@
+Software Requirement Specification : Employee Recuirement System :
+
+	Functional Requirements
+Employee Registration and Profile Management
+Employees can register with the system by providing their personal information, such as name, contact details, and employment details.
+The system should assign a unique identifier to each employee upon registration.
+Employees should be able to create and manage their profiles, update their contact information, and view their employment details.
+
+For Recruintment process
+The system should support recording and tracking employee  job Profiles;
+Employees should be able to request and manage their job applications through the system.
+Supervisors or Organisation should have the ability to approve or reject Job  applications according to requirnment.
+
+Performance Evaluation  according to apptitude and coding  test .
+The system should facilitate the evaluation of employee performance through regular assessments or reviews.
+Employees and Organisation should be able to set and watch performance goals within the system.
+The system should provide a mechanism for tracking and monitoring progress towards performance  of job seekers emp.
+
+ Employee Document Management
+The system should allow employees to upload and store relevant documents such as resumes, certifications, and performance reports.
+Organisation or HR personnel should be able to review and manage  Cv documents.
+Access control mechanisms should be implemented to ensure the privacy and security of sensitive employee information.
+	
+Reporting and Analytics
+The system should generate reports and analytics based on various parameters, such as employee  performance ratings, and training needs.
+Reports can include employee summaries, employee  performance, or  Past records . Analytics should provide insights into trends, patterns, and areas for improvement in HR processes.

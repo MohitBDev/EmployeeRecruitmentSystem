@@ -1,0 +1,11 @@
+Business entities involved in an Employee Management System:
+User: Represents individuals who interact with the Employee Management System. Users can have different roles such as employees, supervisors, managers, and HR personnel.
+They have attributes like User ID, Name, Contact Information, and Role.
+Employee: Represents an employee within the organization. Employees have attributes such as Employee id, Name, Email, Contact Information, and Employment Details.
+Attendance: Represents the attendance records of employees. Attendance has attributes like Attendance id, Employee id (foreign Key ), Date, Clock-in Time, and Clock-out Time.
+Leave: Represents leave applications and balances for employees. Leave has attributes like Leave id, Employee id (Foreign Key referencing Employee table), Leave Type, Start Date, End Date, and Leave Status.
+Performance: Represents performance evaluations and goals for employees. performance has attributes like Performance id, Employee id (foreign Key ), Reviewer id (foreign Key ), Rating, Comments, and Goal Details.
+ Document: Represents employee documents such as resumes, certifications, and performance reports. Documents have attributes like Document id, Employee id(foreign Key ), Document Type, Filename, and File Path. 
+
+
+user table 
